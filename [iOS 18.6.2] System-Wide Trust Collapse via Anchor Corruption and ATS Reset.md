@@ -1,4 +1,4 @@
-# [iOS 18.6.2] System-Wide Trust Collapse via Anchor Corruption and ATS Reset
+# iOS 18.6.2 System-Wide Trust Collapse via Anchor Corruption and ATS Reset
 
 **Status:** Confirmed (based on real device logs from 2025‑08‑20)
 **Severity:** Critical
@@ -169,3 +169,5 @@ Set alerts for:
 | Confidence level        | High   |
 
 ---
+**Log Evidence**
+https://ia600904.us.archive.org/19/items/i-os-trust-collapse/iOS%20Trust%20Collapse%20.mov
