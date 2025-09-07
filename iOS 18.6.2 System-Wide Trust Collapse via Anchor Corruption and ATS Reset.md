@@ -1,7 +1,10 @@
 # iOS 18.6.2 System-Wide Trust Collapse via Anchor Corruption and ATS Reset
 
+
 **Status:** Confirmed (based on real device logs from 2025‑08‑20)
+
 **Severity:** Critical
+
 **Impact:** TLS/ATS, WebKit, iCloud/CloudKit, Accessories (CHIP/Matter), Proximity/Find My, Baseband, Privacy (TCC)
 
 ---
